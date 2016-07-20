@@ -1,0 +1,128 @@
+\begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Horn:79}
+B.~K.~P. Horn and R.~W. Sjoberg, \enquote{Calculating the reflectance map,}
+  Appl. Opt. \textbf{18}, 1770--1779 (1979).
+
+\bibitem{Darrodi:15}
+M.~M. Darrodi, G.~Finlayson, T.~Goodman, and M.~Mackiewicz, \enquote{Reference
+  data set for camera spectral sensitivity estimation,} J. Opt. Soc. Am. A
+  \textbf{32}, 381--391 (2015).
+
+\DIFaddbegin \bibitem{Getman:07}
+\DIFadd{A.~Getman, T.~Uvarov, Y.~Han, B.~Kim, J.~Ahn, and Y.~Lee, }\enquote{Crosstalk,
+  color tint and shading correction for small pixel size image sensor,} \DIFadd{in
+  }\enquote{International Image Sensor Workshop,}  \DIFadd{(2007), pp. 166--169.
+}
+
+\DIFaddend \bibitem{Dyas:00}
+B.~Dyas, \enquote{Robust color sensor response characterization,} Color and
+  Imaging Conference pp. 144--148 (2000).
+
+\bibitem{Urban:10}
+P.~Urban, M.~Desch, K.~Happel, and D.~Spiehl, \enquote{Recovering camera
+  sensitivities using target-based reflectances captured under multiple
+  led-illuminations,} in \enquote{Proc. of Workshop on Color Image Processing,}
+   (2010), pp. 9--16.
+
+\bibitem{Barnard:02}
+K.~Barnard and B.~Funt, \enquote{Camera characterization for color research,}
+  Color Research \& Application \textbf{27}, 152--163 (2002).
+
+\bibitem{Finlayson:98}
+G.~Finlayson, S.~Hordley, and P.~M. Hubel, \enquote{Recovering device
+  sensitivities with quadratic programming,} in \enquote{Color and Imaging
+  Conference,}  (Society for Imaging Science and Technology, 1998), 1, pp.
+  90--95.
+
+\bibitem{Zhao:09}
+H.~Zhao, R.~Kawakami, R.~T. Tan, and K.~Ikeuchi, \enquote{Estimating basis
+  functions for spectral sensitivity of digital cameras,} in \enquote{Meeting
+  on Image Recognition and Understanding,}  (2009), 1.
+
+\bibitem{Jiang:13}
+J.~Jiang, D.~Liu, J.~Gu, and S.~Süsstrunk, \enquote{What is the space of
+  spectral sensitivity functions for digital color cameras?} in
+  \enquote{Applications of Computer Vision (WACV), 2013 IEEE Workshop on,}
+  (2013), pp. 168--179.
+
+\bibitem{Fiorentin:05}
+P.~Fiorentin, P.~Iacomussi, and G.~Rossi, \enquote{Characterization and
+  calibration of a ccd detector for light engineering,} IEEE Transactions on
+  Instrumentation and Measurement \textbf{54}, 171--177 (2005).
+
+\bibitem{Thomson:01}
+M.~Thomson and S.~Westland, \enquote{Colour-imager characterization by
+  parametric fitting of sensor responses,} Color Research \& Application
+  \textbf{26}, 442--449 (2001).
+
+\bibitem{Hartley:04}
+R.~I. Hartley and A.~Zisserman, \emph{Multiple view geometry in computer
+  vision} (Cambridge University Press, ISBN: 0521540518, 2004), 2nd ed.
+
+\bibitem{Huynh:14}
+C.~P. Huynh and A.~Robles-Kelly, \enquote{Recovery of spectral sensitivity
+  functions from a colour chart image under unknown spectrally smooth
+  illumination,} in \enquote{Pattern Recognition (ICPR), 2014 22nd
+  International Conference on,}  (2014), pp. 708--713.
+
+\bibitem{Ebner:07}
+M.~Ebner, \enquote{Estimating the spectral sensitivity of a digital sensor
+  using calibration targets,} in \enquote{Proceedings of the 9th Annual
+  Conference on Genetic and Evolutionary Computation,}  (ACM, New York, NY,
+  USA, 2007), GECCO '07, pp. 642--649.
+
+\bibitem{Prasad:13}
+D.~K. Prasad, R.~Nguyen, and M.~S. Brown, \enquote{Quick approximation of
+  camera's spectral response from casual lighting,} in \enquote{2013 IEEE
+  International Conference on Computer Vision Workshops (ICCVW),}  (2013), pp.
+  844--851.
+
+\bibitem{Finlayson:15}
+G.~Finlayson, M.~Mackiewicz, and A.~Hurlbert, \enquote{Color correction using
+  root-polynomial regression,} IEEE Transactions on Image Processing
+  \textbf{24}, 1460--1470 (2015).
+
+\bibitem{Byrd:99}
+R.~H. Byrd, M.~E. Hribar, and J.~Nocedal, \enquote{An interior point algorithm
+  for large-scale nonlinear programming,} SIAM Journal on Optimization
+  \textbf{9}, 877--900 (1999).
+
+\bibitem{Forsgren:02}
+A.~Forsgren, P.~E. Gill, and M.~H. Wright, \enquote{Interior methods for
+  nonlinear optimization,} SIAM Review \textbf{44}, 525--597 (2002).
+
+\bibitem{Hansen:94}
+P.~C. Hansen, \enquote{Regularization tools: A matlab package for analysis and
+  solution of discrete ill-posed problems,} Numerical Algorithms \textbf{6},
+  1--35 (1994).
+
+\bibitem{Lawson:95}
+C.~L. Lawson and R.~J. Hanson, \emph{Solving least squares problems} (Society
+  for Industrial and Applied Mathematics, 1995).
+
+\DIFaddbegin \bibitem{Hansen:93}
+\DIFadd{P.~C. Hansen and D.~P. O’Leary, }\enquote{The use of the l-curve in the
+  regularization of discrete ill-posed problems,} \DIFadd{SIAM Journal on Scientific
+  Computing }\textbf{\DIFadd{14}}\DIFadd{, 1487--1503 (1993).
+}
+
+\DIFaddend \bibitem{Hardeberg:98}
+J.~Y. Hardeberg, H.~Brettel, and F.~J.~M. Schmitt, \enquote{Spectral
+  characterization of electronic cameras,} in \enquote{Electronic Imaging:
+  Processing, Printing, and Publishing in Color,} , vol. 3409 (1998), vol.
+  3409, pp. 100--109.
+
+\bibitem{Agranov:03}
+G.~Agranov, V.~Berezin, and R.~H. Tsai, \enquote{Crosstalk and microlens study
+  in a color cmos image sensor,} IEEE Transactions on Electron Devices
+  \textbf{50}, 4--11 (2003\DIFaddbegin \DIFadd{).
+}
+
+\bibitem{Kawakami:13}
+\DIFadd{R.~Kawakami, Z.~Hongxun, R.~T. Tan, and K.~Ikeuchi, }\enquote{Camera spectral
+  sensitivity and white balance estimation from sky images,} \DIFadd{International
+  Journal of Computer Vision  (2013}\DIFaddend ).
+
+\end{thebibliography}
