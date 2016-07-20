@@ -1,0 +1,58 @@
+%basic cover letter template
+\documentclass{letter}
+\usepackage{amssymb,amsmath}
+\usepackage{graphicx}
+
+\oddsidemargin=.2in
+\evensidemargin=.2in
+\textwidth=5.9in
+\topmargin=-.5in
+\textheight=9in
+
+%\address{Mathematics Department\\University of Illinois\\
+%1409 W. Green St\\Urbana, Illinois 61801}
+
+\newcommand {\qed}{\mbox{$\Box$}}
+\renewcommand {\iff}{\Longleftrightarrow}
+\newcommand {\R}{\mathbb{R}}
+\newcommand {\N}{\mathbb{N}}
+\newcommand {\Q}{\mathbb{Q}}
+\newcommand {\Z}{\mathbb{Z}}
+
+\newcommand {\sub}{\mbox{SB}}
+
+
+\begin{document}
+\begin{letter}{Applied Optics Editorial Board\\
+The Optical Society\\
+2010 Massachusetts Ave., N.W.\\
+Washington, D.C. 20036-1012 USA}
+
+
+\opening{Dear Editor,}
+
+On behalf of my co-authors, I am submitting the enclosed manuscript ``\textit{Camera response prediction for various capture settings using the spectral sensitivity and crosstalk model}''for possible publication in Applied Optics. All co-authors listed have reviewed the final version of the manuscript and approve it for publication. This manuscript has not been published in whole or in part nor is it being considered for publication elsewhere.
+
+In this work, we propose a camera response formation model with physical meaning that converts the absolute spectral radiances of target to the camera readout responses. Using this model, the camera responses under various capture settings can be accurately predicted (mean CIEDE2000 color difference between the actual and the predicted responses is approximately equal to 1), thus creating an ``imaging simulator'', which makes the colorimetric and photometric research based on the cameras be much of convenience.
+
+We hope this paper is suitable for Applied Optics.
+
+Thanks very much for your attention to our manuscript.
+
+
+\closing{Sincerely,
+%\includegraphics[width=6cm]{signature.pdf}
+}
+%I made a pdf file of my signature using the scanner, so that all the cover letters I sent
+%electronically were "signed."  
+
+Author\\[.5em]
+Ph.D, Professor\\[.1em]
+College of Optical Science and Engineering\\[.1em]
+Zhejiang University\\[.1em]
+Hangzhou 310027, China\\[.5em]
++86-571-12345678 (Tel/Fax)\\[.1em]
+xxx@zju.edu.cn\\
+\end{letter}
+\end{document}
+
